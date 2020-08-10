@@ -2,6 +2,10 @@ primer commit
 
 segundo commit
 
+
 rama1 primero
 
 rama1 segundo
+
+
+rama2 primero
